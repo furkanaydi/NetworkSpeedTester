@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <!--
+    This project file defines a Windows Forms application targeting .NET 6.
+    The UseWindowsForms property enables Windows Forms support.  You can
+    target a different framework (e.g. net7.0‑windows) by changing the
+    TargetFramework value.
+  -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
