@@ -1,6 +1,6 @@
 # Network Speed Tester
 
-Bu depo, **PingAtlas** fikrinin kücük bir masaübüstü versiyonunu içerir. Uygulama C# dilinde, .NET 6 tabanlı bir Windows Forms arayüzü ile geliştirilmiştir ve belirttiğiniz bir ana makineye ICMP ping göndererek ağ gecikmesini (round‑trip time) ölçer. Sonuçlar anlık olarak kullanıcı arayüzünde görüntülenir.
+Uygulama C# dilinde, .NET 6 tabanlı bir Windows Forms arayüzü ile geliştirilmiştir, bir ana makineye ICMP ping göndererek ağ gecikmesini (round‑trip time) ölçer. Sonuçlar anlık olarak kullanıcı arayüzünde görüntülenir.
 
 ## Özellikler
 
@@ -46,7 +46,7 @@ Uygulama arayüzünde varsayılan olarak `google.com` hedefi gelmektedir. Farkl�
 
 ## Katkıda Bulunma
 
-Proje fikir aşamasındadır ve geliştirilmeye açıktır. Pull request ve issue’lar ile katkılarınızı bekliyoruz.
+Proje fikir aşamasındadır ve geliştirilmeye açıktır. Pull request ve issue’lar ile katkılarınızı beklerim.
 
 ---
 
